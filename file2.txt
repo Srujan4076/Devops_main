@@ -1,2 +1,3 @@
 file 2  is modified
 done
+commited
